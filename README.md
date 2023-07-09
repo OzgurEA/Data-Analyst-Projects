@@ -1,6 +1,4 @@
 # Data-Analyst-Projects
-I'm gonna be a data analyst. 
-I'm working on it. And these repositories are where I share my work. 
 I'm gonna be a data analyst. I'm working on it. And these repositories are where I share my work. 
 I am a new data analyst. So my work may seem simple for now. But I'm trying to deepen it more and more every day. 
 As my first project, I wanted to start with nba and basketball, which is also my field of interest. 
